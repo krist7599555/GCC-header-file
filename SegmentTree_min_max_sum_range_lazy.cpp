@@ -1,4 +1,3 @@
-//~ #include <bits/stdc++.h>
 #include <functional>
 #include <algorithm>
 #include <iostream>
